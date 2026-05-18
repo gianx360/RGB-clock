@@ -1,3 +1,4 @@
 RGB Clock Project
+
 This project is a simple interactive web clock that visualises time using the RGB colour model. Each part of the current time is mapped directly to a colour channel: the hour controls red (R), the minute controls green (G), and the second controls blue (B).
 As time changes, the background colour updates every second to reflect the current time as a unique RGB value. This creates a constantly shifting colour display where time can be “seen” rather than just read. The project demonstrates how numerical time values can be converted into visual data using basic HTML, CSS, and JavaScript.
